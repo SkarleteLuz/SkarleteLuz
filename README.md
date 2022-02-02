@@ -10,5 +10,5 @@
   <img align="center" alt="Skarlete-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Skarlete-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Skarlete-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
- src="https://user-images.githubusercontent.com/98782597/152224933-2cd3c52b-c432-41c9-a596-c928fe8d7ac6.png)"
+ src="https://user-images.githubusercontent.com/98782597/152224933-2cd3c52b-c432-41c9-a596-c928fe8d7ac6.png)">
   </div>
