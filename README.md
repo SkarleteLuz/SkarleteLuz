@@ -1,4 +1,4 @@
-### Oiii, sou a Skarlete, estudante de ADS e aspirante a desenvolvedora JavaScript e Node.js :) 
+### Oiii, sou a Skarlete, estudante de ADS e aspirante a desenvolvedora Javascript e Node.js :) 
 Seja bem vindo(a) ao meu GitHub!!
 <div align="center">
   <a href="https://github.com/SkarleteLuz">
