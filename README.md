@@ -1,4 +1,4 @@
-### Seja bem vindo(a) ao meu GitHub!
+### Oiii! Sou a Skarlete, estudante de ADS e aspirante a desenvolvedora JavaScript e Node.js :) Seja bem vindo(a) ao meu GitHub!!!
 <div align="center">
   <a href="https://github.com/SkarleteLuz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkarleteLuz&layout=compact&langs_count=7&theme=synthwave"/>
