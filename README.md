@@ -1,4 +1,4 @@
-### Oiii, sou a Skarlete, estudante de Análise de Sistemas e aspirante a desenvolvedora web:)
+### Oiii, sou a Skarlete, estudante de Desenvolvimento de Sistemas e aspirante a desenvolvedora web :)
 Seja bem vindo(a) ao meu GitHub!! 😊💗
 <div align="center">
   <a href="https://github.com/SkarleteLuz">
