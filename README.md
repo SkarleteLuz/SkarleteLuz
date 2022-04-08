@@ -3,7 +3,7 @@ Seja bem vindo(a) ao meu GitHub!! 😊❣️
 <div align="center">
   <a href="https://github.com/SkarleteLuz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkarleteLuz&layout=compact&langs_count=7&theme=synthwave">
-  <img src="https://www.gratispng.com/png-ftyt5r/download.html" height=280px align="right"/>
+   <img src="https://raw.githubusercontent.com/SkarleteLuz/skarleteluz/master/image/computer-illustration.png" height=280px align="right">
 </div>
   
   <div style="display: inline_block"><br>
