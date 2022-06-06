@@ -1,4 +1,4 @@
-### 💖 Oiii!! Sou a Skarlete, estudante de TI, apaixonada por matemática e tecnologia :)
+### 💖 Oiii!!
 Seja bem vindo(a) ao meu GitHub!! 😊❣️
 <div align="center">
   <a href="https://github.com/SkarleteLuz">
