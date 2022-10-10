@@ -1,9 +1,9 @@
-### 💖 Oiii!! Sou a Skarlete :)
-Seja bem vindo(a) ao meu GitHub!! 😊❣️
-<div align="center">
-  <a href="https://github.com/SkarleteLuz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkarleteLuz&layout=compact&langs_count=7&theme=synthwave">
-</div>
+
+<h1>💖 Oiii!! Sou a Skarlete<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  </h1>
+
+<b><h2>📚 Sobre mim</h2></b>
+❏ Sou graduanda de análise de sistemas e estágiaria em modelagem de dados.
+Atualmente, estou estudando aprendizado de máquina e guardando meus notebooks de estudo aqui nos repositórios :)
   
   ##
   
